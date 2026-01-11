@@ -5,3 +5,5 @@ print(list(map(lambda x: x**2, numbers)))
 print(list(filter(lambda x: x%3 == 0, numbers)))
 
 print(list(sorted(numbers, key=lambda x: x, reverse=True)))
+
+#pyMiss1
