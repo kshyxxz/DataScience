@@ -1,0 +1,5 @@
+Operation completed.
+Invalid input. Non-numeric value entered.
+Operation completed.
+Error: Cannot divide by zero
+Operation completed.
